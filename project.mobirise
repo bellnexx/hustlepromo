@@ -297,7 +297,7 @@
           },
           "text1": "<strong><br></strong><br><br><strong>ADDRESS</strong><br>\nBellNexx Technologies and Solutions Pvt Ltd<br>\nHyderabad<br>India",
           "text2": "<strong><br></strong><br><br><strong>CONTACTS</strong><br>\nEmail: sales@bellnexx.com<br>\nPhone: +91 91 21 01 87 12<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://bellnexx.com/\">About Us</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://bellnexx.com/\">About Us</a></li></ul>",
           "_tags": [
             "Theme"
           ],
